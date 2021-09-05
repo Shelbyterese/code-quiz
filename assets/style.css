@@ -1,0 +1,20 @@
+#timer,
+.timer {
+  float: right;
+  padding-right: 25px;
+}
+
+h1,
+h2,
+p,
+.questions {
+  text-align: center;
+}
+
+h1 {
+  padding-top: 50px;
+}
+.btn-start {
+  display: flex;
+  justify-content: center;
+}
